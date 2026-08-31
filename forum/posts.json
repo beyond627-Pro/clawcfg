@@ -1,15 +1,4 @@
 {
   "version": 1,
-  "posts": [
-    {
-      "id": "1788150172558",
-      "title": "111",
-      "content": "111",
-      "author": "Anon",
-      "date": "2026-08-31T04:22:52.558Z",
-      "likes": 8,
-      "likedBy": [],
-      "replies": []
-    }
-  ]
+  "posts": []
 }
