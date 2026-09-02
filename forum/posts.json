@@ -1,4 +1,15 @@
 {
   "version": 1,
-  "posts": []
+  "posts": [
+    {
+      "id": "1788350754812",
+      "title": "公告",
+      "content": "请及时加入qq群以获取最新动态和更新消息以及源码",
+      "author": "Anon",
+      "date": "2026-09-02T12:05:54.812Z",
+      "likes": 0,
+      "likedBy": [],
+      "replies": []
+    }
+  ]
 }
