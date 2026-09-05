@@ -2,22 +2,6 @@
   "version": 1,
   "posts": [
     {
-      "id": "1788436870230",
-      "title": "ww",
-      "content": "ww",
-      "author": "Anon",
-      "date": "2026-09-03T12:01:10.230Z",
-      "likes": 0,
-      "likedBy": [],
-      "replies": [
-        {
-          "author": "beyond627(dev)",
-          "content": "下次请把名字换成自己的网络名",
-          "date": "2026-09-03T13:07:28.126Z"
-        }
-      ]
-    },
-    {
       "id": "1788435842646",
       "title": "官方帖",
       "content": "火速加入qq群获取最新动态和源码",
