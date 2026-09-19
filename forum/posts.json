@@ -1,17 +1,4 @@
 {
   "version": 1,
-  "posts": [
-    {
-      "id": "1788569287724",
-      "title": "官方公告",
-      "content": "下次请把名字从anon改为自己的网络名",
-      "author": "beyond627",
-      "date": "2026-09-05T00:48:07.724Z",
-      "likes": 1,
-      "likedBy": [
-        "current"
-      ],
-      "replies": []
-    }
-  ]
+  "posts": []
 }
